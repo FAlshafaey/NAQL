@@ -1,0 +1,19 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+NAQL_Project/node_modules/
+
+# Next.js
+.next/
+NAQL_Project/.next/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
