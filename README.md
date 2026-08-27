@@ -1,7 +1,6 @@
 # NAQL | نَقْل
 
-## Live Demo
-🔗 **[Visit NAQL](https://naql.onrender.com)**
+**Live Demo:** [https://naql.onrender.com](https://naql.onrender.com)
 
 NAQL is a Saudi digital platform designed to help users organize and manage the process of moving between homes.
 
